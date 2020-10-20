@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+ ![Enrique's github stats](https://github-readme-stats.vercel.app/api?username=enriquereyes&count_private=true&show_icons=true&theme=buefy)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enriquereyes&theme=buefy&layout=compact)](https://github.com/enriquereyes/github-readme-stats)
 <!--
 **enriquereyes/enriquereyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
